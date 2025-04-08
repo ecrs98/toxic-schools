@@ -30,10 +30,15 @@ One major limitation of this study is that the data is limited only to Prince Ge
 ## Conclusion and Next Steps
 This method of calculating facility concentration is illuminating. Here, we see that schools with three or more facilities within a two-mile radius are concentrated in one area of the county. Further research might test facility concentration for relationships with a variety of academic outcomes, such as graduation rates and test scores, and with social factors like race. Depending on availability of data, longitudinal studies could allow researchers to link facility concentration during grade school to broader quality of life indicators.
 
-## References
+### References
 1. Carpenter, D. O., Ma, J., & Lessner, L. (2008). Asthma and infectious respiratory disease in relation to residence near hazardous waste sites. Annals of the New York Academy of Sciences, 1140, 201–208. https://doi.org/10.1196/annals.1454.000
 2. United Church of Christ Commission for Racial Justice. (1987). Toxic wastes and race in the united states.
 3. Environmental Protection Agency. Facility registry service (FRS). Retrieved from: https://www.epa.gov/frs.
 4. Kahle D. & Wickham, H. ggmap: Spatial visualization with ggplot2. The R Journal, 5(1), 144-161. URL http://journal.r-project.org/archive/2013-1/kahle-wickham.pdf.
 5. Hijmans, R. J. (2022). geosphere: spherical trigonometry. R package version 1.5-18. https://CRAN.R-project.org/package=geosphere.
 6. County-level shapefiles from the Urban Institute facilitated the creation of these charts. Strochak, S. Ueyama, K., & Williams, A. (2022). urbnmapr: State and county shapefiles in sf and tibble format. R package version 0.0.0.9002. https://github.com/UrbanInstitute/urbnmapr.
+
+### Datasets
+The input data used in this project can be accessed here:
+* [List of Maryland Public Schools](https://drive.google.com/file/d/11PUUgI9_ovAg7vdevM8cqeTPFl0NlZCR/view?usp=drive_link)
+* [EPA Facility Registry Service](https://drive.google.com/file/d/11Gq_OFARGebx9x1EYw0aevloHok8G-ig/view?usp=drive_link)
