@@ -18,9 +18,9 @@ One challenge with both datasets is their lack of latitude/longitude coordinate 
 
 #### Elementary, Middle, and High Schools
 <p align="middle">
-  <img src="/es_2mi.png" width="100" />
-  <img src="/ms_2mi.png" width="100" /> 
-  <img src="/hs_2mi.png" width="100" />
+  <img src="/output/es_2mi.png" width="100" />
+  <img src="/output/ms_2mi.png" width="100" /> 
+  <img src="/output/hs_2mi.png" width="100" />
 </p>
 
 ## Limitations
