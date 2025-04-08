@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The locations of toxic waste facilities have been established in the literature as a cause of adverse health outcomes.<sup>1</sup> and a symptom of systemic racism.<sup>2</sup> But what of academic outcomes? Here I establish a method for calculating distance between schools and toxic waste facilities. This is a first step toward future research that could allow researchers to examine the relationship between academic outcomes and the locations of schools relative to toxic waste facilities.
+The locations of toxic waste facilities have been established in the literature as a cause of adverse health outcomes<sup>1</sup> and a symptom of systemic racism.<sup>2</sup> But what of academic outcomes? Here I establish a method for calculating distance between schools and toxic waste facilities. This is a first step toward future research that could allow researchers to examine the relationship between academic outcomes and the locations of schools relative to toxic waste facilities.
 
 ## Data 
 I leverage two data sources here: the EPA’s Facility Registry Service and the Maryland Department of Education’s Maryland Education Facilities. The Facility Registry Service is a registry of all entities that the EPA considers to be “either subject to environmental regulations or of environmental interest.”<sup>3</sup> The FRS is a superset of the Toxic Release Inventory. I focus on contaminated and potentially contaminated sites, water systems, and brownfields sites. There are 23 of these sites in Prince George’s County. The Maryland schools data is a registry of all education facilities in Maryland. For the sake of theoretical and computational ease, I focus on only the 197 K-12 public schools in Prince George’s County. 
