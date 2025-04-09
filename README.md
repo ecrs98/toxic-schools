@@ -1,4 +1,5 @@
 # Toxic waste and Prince George’s County public schools
+Constructing a "facility concentration" metric (the number of EPA-registered toxic waste facilities within a two-mile radius) for Prince George's County, MD, K-12 public schools. This project was originally completed for the [Massive Data Institute Fall 2023 Showcase](https://mdi.georgetown.edu/events/mdi-scholars-fall-2023-research-showcase/).
 
 ## Introduction
 
